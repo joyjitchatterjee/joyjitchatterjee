@@ -15,8 +15,7 @@ You can reach me at joyjitece@gmail.com or connect with me on Social Media.
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
+
 
 
 
