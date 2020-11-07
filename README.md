@@ -15,7 +15,8 @@ You can reach me at joyjitece@gmail.com or connect with me on Social Media.
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
 
 
 
@@ -25,9 +26,9 @@ You can reach me at joyjitece@gmail.com or connect with me on Social Media.
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (Joyjit's Twitter)
-[2.1]: https://i.imgur.com/0IdggSZ.png (Joyjit's LinkedIn)
+[2.1]: Joyjit's LinkedIn
 [3.1]: https://i.imgur.com/PpXsPqR.png (Joyjit's Facebook)
-[4.1]: https://img.icons8.com/windows/452/researchgate.png (Joyjit's ResearchGate)
+[4.1]: Joyjit's ResearchGate
 
 <!-- icons without padding -->
 
