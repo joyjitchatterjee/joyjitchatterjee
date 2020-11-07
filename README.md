@@ -39,10 +39,12 @@ I can be found on LinkedIn at [![alt text][3.1]][3] http://linkedin.com/in/joyji
 [![alt text][2.1]][2]
 
 ## &#x1f4c8; GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyjitchatterjee)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/joyjitchatterjee/joyjitchatterjee">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joyjitchatterjee&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Joyjit's GitHub Stats" />
 </a>
+
 
 
 
@@ -68,5 +70,4 @@ I can be found on LinkedIn at [![alt text][3.1]][3] http://linkedin.com/in/joyji
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=joyjitchatterjee>&theme=<THEME_NAME>" />
 
