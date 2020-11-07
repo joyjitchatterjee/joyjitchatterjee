@@ -10,7 +10,19 @@
 I am a Final Year PhD. Computer Science Researcher at the University of Hull, United Kingdom. My present research spans the domain of tackling climate change with AI, wherein, I develop specialised AI techniques to help make make wind energy sources more reliable, through explainable and intelligent decision support in their operations & maintenance. My research interests span Deep Learning, Natural Language Generation, Data Analytics, Causal Inference and Time-Series Analysis. I prefer to keep stuff simple and stupid, as that is what I believe makes most programs work as they should. Feel free to check out my personal website at http://joyjitchatterjee.github.io for more details on my past and present works.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/static/v1?label=<Programming>&message=Python&color=Green)
+![](https://img.shields.io/static/v1?label=Programming&message=Python&color=Green)
+![](https://img.shields.io/static/v1?label=Programming&message=C++&color=Green)
+![](https://img.shields.io/static/v1?label=OS&message=Linux&color=Purple)
+![](https://img.shields.io/static/v1?label=Editor&message=PyCharm&color=Orange)
+![](https://img.shields.io/static/v1?label=Editor&message=Sublime&color=Orange)
+![](https://img.shields.io/static/v1?label=Tools&message=Pandas&color=Brown)
+![](https://img.shields.io/static/v1?label=Tools&message=Numpy&color=Brown)
+![](https://img.shields.io/static/v1?label=Tools&message=Matplotlib&color=Brown)
+![](https://img.shields.io/static/v1?label=Deep Learning&message=Keras&color=Red)
+![](https://img.shields.io/static/v1?label=Deep Learning&message=Tensorflow&color=Red)
+![](https://img.shields.io/static/v1?label=Deep Learning&message=PyTorch&color=Red)
+![](https://img.shields.io/static/v1?label=Machine Learning&message=scikit-learn&color=Red)
+![](https://img.shields.io/static/v1?label=Natural Language Processing&message=NLTK&color=Yellow)
 
 
 ## &#x270d; Blog & Writing
