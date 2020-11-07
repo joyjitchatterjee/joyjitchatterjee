@@ -43,5 +43,5 @@ I can be found on LinkedIn at http://linkedin.com/in/joyjitchatterjee/.
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 
-[![Joyjit's github stats](https://github-readme-stats.vercel.app/api?username=joyjitchatterjee)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=joyjitchatterjee>&theme=<THEME_NAME>" />
 
