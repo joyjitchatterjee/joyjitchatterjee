@@ -25,7 +25,7 @@ You can reach me at joyjitece@gmail.com or connect with me on Social Media.
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (Joyjit's Twitter)
-[2.1]: https://i.imgur.com/PpXsPqR.png (Joyjit's Facebook)
+[2.1]: http://i.imgur.com/P3YfQoD.png(Joyjit's Facebook)
 
 
 <!-- links to your social media accounts -->
