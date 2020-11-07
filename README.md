@@ -20,6 +20,7 @@ I can be found on LinkedIn at http://linkedin.com/in/joyjitchatterjee/.
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
+[![alt text][3.1]][3]
 
 
 
@@ -31,6 +32,8 @@ I can be found on LinkedIn at http://linkedin.com/in/joyjitchatterjee/.
 
 [1.1]: http://i.imgur.com/tXSoThF.png (Joyjit's Twitter)
 [2.1]: http://i.imgur.com/P3YfQoD.png (Joyjit's Facebook)
+[3.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (Joyjit's LinkedIn)
+
 
 
 <!-- links to your social media accounts -->
@@ -38,6 +41,7 @@ I can be found on LinkedIn at http://linkedin.com/in/joyjitchatterjee/.
 
 [1]: http://www.twitter.com/joyjitchat
 [2]: http://facebook.com/joyjit.chatterjee/
+[3]: http://linkedin.com/in/joyjitchatterjee/
 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
