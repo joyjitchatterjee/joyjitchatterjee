@@ -1,4 +1,4 @@
-## Hello! Thank you for visiting my Github page. Its a pleasure to have you around. 👋
+## Hello! Thank you for visiting my Github page. Its a pleasure to have you around. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### greet = tf.Variable("I love AI (and of course tensorflow)!",string)
 
 <!--
