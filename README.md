@@ -15,8 +15,7 @@ You can reach me at joyjitece@gmail.com or connect with me on Social Media.
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
+
 
 
 
@@ -26,19 +25,15 @@ You can reach me at joyjitece@gmail.com or connect with me on Social Media.
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (Joyjit's Twitter)
-[2.1]: Joyjit's LinkedIn
-[3.1]: https://i.imgur.com/PpXsPqR.png (Joyjit's Facebook)
-[4.1]: Joyjit's ResearchGate
+[2.1]: https://i.imgur.com/PpXsPqR.png (Joyjit's Facebook)
+
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
 [1]: http://www.twitter.com/joyjitchat
-[2]: http://www.linkedin.com/in/joyjitchatterjee
-[3]: http://facebook.com/joyjit.chatterjee/
-[4]: https://www.researchgate.net/profile/Joyjit_Chatterjee
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
+[2]: http://facebook.com/joyjit.chatterjee/
+
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
