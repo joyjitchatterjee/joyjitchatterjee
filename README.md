@@ -11,7 +11,7 @@ I am a Final Year PhD. Computer Science Researcher at the University of Hull, Un
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/static/v1?label=Programming&message=Python&color=Green)
-![](https://img.shields.io/static/v1?label=Programming&message=C_++&nbsp;++&color=Green)
+![](https://img.shields.io/static/v1?label=Programming&message=<C++>&nbsp;++&color=Green)
 ![](https://img.shields.io/static/v1?label=OS&message=Linux&color=Purple)
 ![](https://img.shields.io/static/v1?label=Editor&message=PyCharm&color=Orange)
 ![](https://img.shields.io/static/v1?label=Editor&message=Sublime&color=Orange)
