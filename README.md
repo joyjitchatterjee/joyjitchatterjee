@@ -3,7 +3,9 @@
 <!--
 **joyjitchatterjee/joyjitchatterjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I am a Final Year PhD. Computer Science Researcher at the University of Hull, United Kingdom. My present research spans the domain of tackling climate change with AI, wherein, I develop specialised AI techniques to help make make wind energy sources more reliable, through explainable and intelligent decision support in their operations & maintenance. Feel free to check out my personal website at http://joyjitchatterjee.github.io for more details on my past and present works.
+I am a Final Year PhD. Computer Science Researcher at the University of Hull, United Kingdom. My present research spans the domain of tackling climate change with AI, wherein, I develop specialised AI techniques to help make make wind energy sources more reliable, through explainable and intelligent decision support in their operations & maintenance. My research interests span Deep Learning, Natural Language Generation, Data Analytics, Causal Inference and Time-Series Analysis. Feel free to check out my personal website at http://joyjitchatterjee.github.io for more details on my past and present works.
+
+I am also an avid blogger, and many of my Github repos are supplement to my Medium articles, so if you would like, please give them a read at http://joyjitece.medium.com. Some of the repos contain supplementary material for my research publications, some are simple and plain fun projects, while a few are an effort to contribute to the community by facilitating educational content in Computer Science & Engineering. I love to code in Python and C++ and these are the programming languages you would find most of my repos to be based on, although I have studied other areas of programming as well, including MATLAB, R, Java/Javascript and HTML/CSS, Electronic Design & Automation HDL's such as System Verilog, VHDL but do not use them too frequently.
 
 You can reach me at joyjitece@gmail.com or connect with me on Social Media. 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
@@ -23,12 +25,10 @@ You can reach me at joyjitece@gmail.com or connect with me on Social Media.
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png (Joyjit's Twitter)
+[2.1]: https://i.imgur.com/0IdggSZ.png (Joyjit's LinkedIn)
+[3.1]: https://i.imgur.com/PpXsPqR.png (Joyjit's Facebook)
+[4.1]: https://img.icons8.com/windows/452/researchgate.png (Joyjit's ResearchGate)
 
 <!-- icons without padding -->
 
@@ -45,8 +45,8 @@ You can reach me at joyjitece@gmail.com or connect with me on Social Media.
 
 [1]: http://www.twitter.com/joyjitchat
 [2]: http://www.linkedin.com/in/joyjitchatterjee
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
+[3]: http://facebook.com/joyjit.chatterjee/
+[4]: https://www.researchgate.net/profile/Joyjit_Chatterjee
 [5]: http://dribbble.com/carlsednaoui
 [6]: http://www.github.com/carlsednaoui
 
