@@ -1,5 +1,5 @@
 ## Hello! Thank you for visiting my Github page. Its a pleasure to have you around. 👋
-### greet = tf.Variable("Hello there. I love AI (and of course tensorflow)!",string)
+### greet = tf.Variable("I love AI (and of course tensorflow)!",string)
 
 <!--
 **joyjitchatterjee/joyjitchatterjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
