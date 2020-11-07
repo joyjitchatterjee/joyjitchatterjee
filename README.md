@@ -18,11 +18,11 @@ I am a Final Year PhD. Computer Science Researcher at the University of Hull, Un
 ![](https://img.shields.io/static/v1?label=Tools&message=Pandas&color=Brown)
 ![](https://img.shields.io/static/v1?label=Tools&message=Numpy&color=Brown)
 ![](https://img.shields.io/static/v1?label=Tools&message=Matplotlib&color=Brown)
-![](https://img.shields.io/static/v1?label=Deep Learning&message=Keras&color=Red)
-![](https://img.shields.io/static/v1?label=Deep Learning&message=Tensorflow&color=Red)
-![](https://img.shields.io/static/v1?label=Deep Learning&message=PyTorch&color=Red)
-![](https://img.shields.io/static/v1?label=Machine Learning&message=scikit-learn&color=Red)
-![](https://img.shields.io/static/v1?label=Natural Language Processing&message=NLTK&color=Yellow)
+![](https://img.shields.io/static/v1?label=DeepLearning&message=Keras&color=Red)
+![](https://img.shields.io/static/v1?label=DeepLearning&message=Tensorflow&color=Red)
+![](https://img.shields.io/static/v1?label=DeepLearning&message=PyTorch&color=Red)
+![](https://img.shields.io/static/v1?label=MachineLearning&message=scikit-learn&color=Red)
+![](https://img.shields.io/static/v1?label=NaturalLanguageProcessing&message=NLTK&color=Yellow)
 
 
 ## &#x270d; Blog & Writing
