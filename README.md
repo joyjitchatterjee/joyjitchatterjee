@@ -12,7 +12,7 @@ I am a Final Year PhD. Computer Science Researcher at the University of Hull, Un
 I am also an avid blogger, and many of my Github repos are supplement to my Medium articles, so if you would like, please give them a read at http://joyjitece.medium.com. Some of the repos contain supplementary material for my research publications, some are simple and plain fun projects, while a few are an effort to contribute to the community by facilitating educational content in Computer Science & Engineering. I love to code in Python and C++ and these are the programming languages you would find most of my repos to be based on, although I have studied other areas of programming as well, including MATLAB, R, Java/Javascript and HTML/CSS, Electronic Design & Automation HDL's such as System Verilog, VHDL but do not use them too frequently.
 
 You can reach me at joyjitece@gmail.com or connect with me on Social Media. 
-I can be found on LinkedIn at http://linkedin.com/in/joyjitchatterjee/.
+I can be found on LinkedIn at [![alt text][3.1]][3] http://linkedin.com/in/joyjitchatterjee/.
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
@@ -20,7 +20,7 @@ I can be found on LinkedIn at http://linkedin.com/in/joyjitchatterjee/.
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-[![alt text][3.1]][3]
+
 
 
 
