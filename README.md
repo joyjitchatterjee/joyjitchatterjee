@@ -1,5 +1,6 @@
-[![Header](https://user-images.githubusercontent.com/18656061/98440921-ab821b00-2121-11eb-80e9-c5c6881b5e56.jpg
+[![Header](https://user-images.githubusercontent.com/18656061/103147785-8784a280-477e-11eb-8714-aca40e8fc120.jpg
  "Header")](http://joyjitchatterjee.github.io)
+ 
 
 ## Hello! Thank you for visiting my Github page. Its a pleasure to have you around. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### greet = tf.Variable("I love AI (and of course tensorflow)!",tf.string)
