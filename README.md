@@ -22,6 +22,7 @@ I am a Final Year PhD. Computer Science Researcher at the University of Hull, Un
 ![](https://img.shields.io/static/v1?label=Tools&message=Pandas&color=Brown)
 ![](https://img.shields.io/static/v1?label=Tools&message=Numpy&color=Brown)
 ![](https://img.shields.io/static/v1?label=Tools&message=Matplotlib&color=Brown)
+![](https://img.shields.io/static/v1?label=KnowledgeGraphs-Neo4j&message=Cypher&color=Yellow)
 ![](https://img.shields.io/static/v1?label=DeepLearning&message=Keras&color=Red)
 ![](https://img.shields.io/static/v1?label=DeepLearning&message=Tensorflow&color=Red)
 ![](https://img.shields.io/static/v1?label=DeepLearning&message=PyTorch&color=Red)
