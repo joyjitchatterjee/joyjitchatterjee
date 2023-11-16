@@ -3,7 +3,7 @@
  
 
 ## Hello! Thank you for visiting my GitHub page. Its a pleasure to have you around. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### greet = tf.Variable("I love AI (and of course tensorflow)!",tf.string)
+### greet = tf.Variable("I love AI (and of course TensorFlow)!",tf.string)
 
 <!--
 **joyjitchatterjee/joyjitchatterjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -11,7 +11,7 @@
 <i>Simplicity is prerequisite for reliability. — Edsger Dijkstra</i> 
 
 
-I am presently a Data Scientist (Research Associate) at Reckitt, United Kingdom. Previously, I pursued my PhD in Computer Science at the University of Hull, United Kingdom, wherein, my research focused on the domain of tackling climate change with AI - I have develop specialised AI techniques to help make wind energy sources more reliable, through explainable and intelligent decision support in their operations & maintenance. My research interests span Deep Learning, Natural Language Generation, Data Analytics, Causal Inference and Time-Series Analysis. I prefer to keep stuff simple and stupid, as that is what I believe makes most programs work as they should. Feel free to check out my personal website at http://joyjitchatterjee.github.io for more details on my past and present works. I am an ardent believer of the fact that there is no limit to learning, and in this vast domain of Data Science & AI, we can never learn everything. With GitHub, I try to learn a little every day and apply it for social good, wherever I can!
+As a data science and AI professional and a researcher with experience in both industry and academia, my research interests span Explainable AI, Deep Learning, Natural Language Generation, Data Analytics, Causal Inference and Time-Series Analysis - specially in the domain of sustainability, manufacturing and R&D applications in industry. I prefer to keep stuff simple and stupid, as that is what I believe makes most applications work as they should. Feel free to check out my profile at http://joyjitchatterjee.github.io for more details on my past and present works. I am an ardent believer of the fact that there is no limit to learning, and in this vast domain of Data Science & AI, we can never learn everything. With GitHub, I try to learn a little every day and apply it for social good, wherever I can!
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/static/v1?label=Programming&message=Python&color=Green)
