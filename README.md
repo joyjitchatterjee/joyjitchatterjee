@@ -19,6 +19,8 @@ My work spans enterprise AI consulting, generative and agentic AI, explainable d
 | :--- | :--- | :--- |
 | Contribute to **multi-million-pound engagements** at EPAM across Europe and North America, supporting Fortune 500 and FTSE 250 organisations. | Led the AI workstream for a **$200k Reckitt × Hull partnership**, taking shelf-life prediction from research to a production application. The KTP received the highest grade, **Outstanding**. | Contributed to **approximately 30% waste reduction** in major UK factories at Reckitt through data science and manufacturing analytics. |
 
+**GenAI for procurement:** Contributed to a negotiation intelligence platform for a global consumer goods company. Evaluation demonstrated **savings potential equivalent to 2% of annual procurement spend**. [Project details](https://joyjitchatterjee.github.io/profile.html#selected-projects)
+
 <details>
 <summary><strong>Client work, leadership responsibilities and evaluation results</strong></summary>
 
