@@ -1,70 +1,78 @@
-[![Header](https://user-images.githubusercontent.com/18656061/103147785-8784a280-477e-11eb-8714-aca40e8fc120.jpg
- "Header")](http://joyjitchatterjee.github.io)
- 
+[![Dr. Joyjit Chatterjee. Enterprise AI, product delivery and innovation.](assets/profile-banner.svg)](https://joyjitchatterjee.github.io/)
 
-## Hello! Thank you for visiting my GitHub page. Its a pleasure to have you around. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### greet = tf.Variable("I love AI (and of course TensorFlow)!",tf.string)
+<p align="center">
+  <a href="https://joyjitchatterjee.github.io/"><strong>Portfolio & impact</strong></a> ·
+  <a href="https://joyjitchatterjee.github.io/profile.html">Career in detail</a> ·
+  <a href="https://joyjitchatterjee.github.io/research.html">Publications</a> ·
+  <a href="https://www.linkedin.com/in/joyjitchatterjee/">LinkedIn</a>
+</p>
 
-<!--
-**joyjitchatterjee/joyjitchatterjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+I connect AI strategy with the work needed to deliver it: finding valuable problems, shaping products, building teams and bringing AI into everyday decisions.
 
-<i>Simplicity is prerequisite for reliability. — Edsger Dijkstra</i> 
+**Lead Data Scientist at EPAM Systems** · **Distinguished Visiting Fellow at Loughborough University** · Visiting Academic at the University of Hull · PhD in Computer Science
 
+My work spans enterprise AI consulting, generative and agentic AI, explainable decision support, manufacturing, R&D and the energy transition. I bring together technical delivery, domain expertise and senior stakeholders to move from discovery and proof of value to deployment and adoption.
 
-As a data science and AI professional and a researcher with experience in both industry and academia, my research interests span Explainable AI, Deep Learning, Natural Language Generation, Data Analytics, Causal Inference and Time-Series Analysis - specially in the domain of sustainability, manufacturing and R&D applications in industry. I prefer to keep stuff simple and stupid, as that is what I believe makes most applications work as they should. Feel free to check out my profile at http://joyjitchatterjee.github.io for more details on my past and present works. I am an ardent believer of the fact that there is no limit to learning, and in this vast domain of Data Science & AI, we can never learn everything. With GitHub, I try to learn a little every day and apply it for social good, wherever I can!
+### From strategy to delivery
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/static/v1?label=Programming&message=Python&color=Green)
-![](https://img.shields.io/static/v1?label=Programming&message=CPP&nbsp;++&color=Green)
-![](https://img.shields.io/static/v1?label=OS&message=Linux&color=Purple)
-![](https://img.shields.io/static/v1?label=Editor&message=PyCharm&color=Orange)
-![](https://img.shields.io/static/v1?label=Editor&message=Sublime&color=Orange)
-![](https://img.shields.io/static/v1?label=Tools&message=Pandas&color=Brown)
-![](https://img.shields.io/static/v1?label=Tools&message=Numpy&color=Brown)
-![](https://img.shields.io/static/v1?label=Tools&message=Matplotlib&color=Brown)
-![](https://img.shields.io/static/v1?label=KnowledgeGraphs-Neo4j&message=Cypher&color=Yellow)
-![](https://img.shields.io/static/v1?label=DeepLearning&message=Keras&color=Red)
-![](https://img.shields.io/static/v1?label=DeepLearning&message=Tensorflow&color=Red)
-![](https://img.shields.io/static/v1?label=DeepLearning&message=PyTorch&color=Red)
-![](https://img.shields.io/static/v1?label=MachineLearning&message=scikit-learn&color=Red)
-![](https://img.shields.io/static/v1?label=NaturalLanguageProcessing&message=NLTK&color=Yellow)
+| Enterprise AI | AI products | Operational impact |
+| :--- | :--- | :--- |
+| Contribute to **multi-million-pound engagements** at EPAM across Europe and North America, supporting Fortune 500 and FTSE 250 organisations. | Led the AI workstream for a **$200k Reckitt × Hull partnership**, taking shelf-life prediction from research to a production application. The KTP received the highest grade, **Outstanding**. | Contributed to **approximately 30% waste reduction** in major UK factories at Reckitt through data science and manufacturing analytics. |
 
+<details>
+<summary><strong>Client work, leadership responsibilities and evaluation results</strong></summary>
 
-## &#x270d; Blog & Writing
-I am also an avid blogger, and many of my Github repos are supplement to my Medium articles, so if you would like, please give them a read at [Medium](http://joyjitece.medium.com). Some of the repos contain supplementary material for my research publications, some are simple and plain fun projects, while a few are an effort to contribute to the community by facilitating educational content in Computer Science & Engineering. I love to code in Python and C++ and these are the programming languages you would find most of my repos to be based on, although I have studied other areas of programming as well, including MATLAB, R, Java/Javascript and HTML/CSS, Electronic Design & Automation HDL's such as System Verilog, VHDL but do not use them too frequently.
+At EPAM, my direct client delivery includes **Reckitt and Syngenta Group**. I also support pitches, pre-sales and use-case discovery for Qatar Airways, Unilever, Barry Callebaut, Brussels Airport Company, Cleveland Clinic Abu Dhabi, Adidas, Co-op, Currys and PPG Industries.
 
-You can reach me at joyjitece@gmail.com or connect with me on Social Media. 
-I can be found on LinkedIn at [![alt text][3.1]][3] http://linkedin.com/in/joyjitchatterjee/.
+My responsibilities span discovery, RFP responses, proof of concept and value, project planning, governance, stakeholder alignment, mentoring and helping assemble multidisciplinary delivery teams.
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+At Reckitt, evaluations demonstrated **potential annual savings of up to £300k in manufacturing** and **$780k plus 10,000 laboratory hours in R&D**. These are evaluation-based potential benefits, not realised savings.
 
-<!-- display the social media buttons in your README -->
+[Explore the full responsibilities, projects and supporting detail →](https://joyjitchatterjee.github.io/profile.html#experience)
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
+</details>
 
+### Recognition & academic contribution
 
+- **Forbes 30 Under 30 Europe**, Manufacturing & Industry, 2022. [Profile](https://www.forbes.com/profile/joyjit-chatterjee/)
+- **British Data Awards 2026 finalist**, Data Leader of the Year (Partner). [Finalists](https://predatech.co.uk/british-data-awards-2026-finalists/)
+- **ETH Zurich**, invited expert on a Doctoral Examination (Aptitude Colloquium) committee. [Academic service](https://joyjitchatterjee.github.io/profile.html#reviews)
+- **Green Talents 2021**, one of 25 international awardees selected by Germany's Federal Ministry of Education and Research. [Award profile](https://www.greentalents.de/awardees_awardees2021_joyjit-chatterjee.php)
+- **Horizon Europe's NGI Search**, external evaluator and reviewer, 2023. [Details](https://joyjitchatterjee.github.io/profile.html#reviews)
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
+### Research you can read, ideas you can hear
 
-<!-- icons with padding -->
+**Latest paper: Graph-Grounded Multimodal Agent for Trustworthy Power-Line Operations and Maintenance**<br>
+GLOW at ISWC 2026. Research combining visual evidence, knowledge graphs and physics simulation for traceable maintenance decisions.<br>
+[Read or download the PDF](https://joyjitchatterjee.github.io/assets/papers/glow-2026-power-line-om.pdf) · [Publication library](https://joyjitchatterjee.github.io/research.html#downloads)
 
-[1.1]: http://i.imgur.com/tXSoThF.png (Joyjit's Twitter)
-[2.1]: http://i.imgur.com/P3YfQoD.png (Joyjit's Facebook)
-[3.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (Joyjit's LinkedIn)
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781394300068"><img src="https://joyjitchatterjee.github.io/assets/images/feature-book.jpg" alt="Cover of Renewable Energy Transition with Artificial Intelligence" height="170"></a>
+<p><strong>Renewable Energy Transition with Artificial Intelligence</strong><br>Co-editor with Nina Dethlefs. A Wiley volume connecting research with energy-sector challenges.</p>
+<a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781394300068">Explore the book →</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.youtube.com/watch?v=FXgvSQKDZzs"><img src="https://joyjitchatterjee.github.io/assets/images/feature-podcast.jpg" alt="Joyjit speaking on the Low to Grow podcast" width="360"></a>
+<p><strong>Explainable AI and the Power of Quiet Thinking</strong><br>On enterprise AI adoption, explainability and reflective leadership with Low to Grow.</p>
+<a href="https://www.youtube.com/watch?v=FXgvSQKDZzs">Watch the conversation →</a>
+</td>
+</tr>
+</table>
 
+### Selected open research
 
+These repositories share resources accompanying my research in trustworthy industrial AI.
 
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
+| Repository | What you can explore |
+| :--- | :--- |
+| [**XAI4Wind**](https://github.com/joyjitchatterjee/XAI4Wind) | Domain knowledge graph and Neo4j resources for explainable wind turbine operations and maintenance. |
+| [**WindTurbine-QAKG**](https://github.com/joyjitchatterjee/WindTurbine-QAKG) | Question–query datasets, templates and graph resources for interactive maintenance decision support. |
+| [**TurbineSCADACausality**](https://github.com/joyjitchatterjee/TurbineSCADACausality) | Supplementary temporal causal graphs and preprocessing material for research on wind turbine SCADA data. |
 
-[1]: http://www.twitter.com/joyjitchat
-[2]: http://facebook.com/joyjit.chatterjee/
-[3]: http://linkedin.com/in/joyjitchatterjee/
+**Technical focus:** Python · LLMs & RAG · Agentic AI · Azure OpenAI · Knowledge graphs & Neo4j · Explainable AI · Causal inference
 
+---
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-
-
+[Full portfolio](https://joyjitchatterjee.github.io/) · [Google Scholar](https://scholar.google.co.uk/citations?user=kjWYrm4AAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-2672-3832) · [Writing](https://joyjitece.medium.com) · [Bluesky](https://bsky.app/profile/joyjitchat.bsky.social) · [Email](mailto:joyjitece@gmail.com)
